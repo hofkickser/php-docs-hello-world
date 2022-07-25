@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'app-pfg-prd-001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78930965F75543C4927A30C33D6C88C2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30F5972EA8044B0CBF02CFF227827F46 }}
           package: .
